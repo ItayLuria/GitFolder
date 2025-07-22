@@ -8,7 +8,6 @@ def PasswordChecker():
     special_chars = "!@#$%^&*()-_=+[]|;:'\",.<>?/\\`~"
     common = False
     commonwords = ["admin", "password", "123456"]
-
     for i in password:
         if i.isupper():
             uppercase = True
