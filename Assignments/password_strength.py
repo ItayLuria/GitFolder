@@ -1,4 +1,4 @@
-def PasswordChecker():
+def Password_Checker():
     password = input("Please enter your password: ")
     uppercase = False
     lowercase = False
