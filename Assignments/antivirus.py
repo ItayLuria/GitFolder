@@ -5,7 +5,7 @@ import time
 import os
 import threading
 
-API_KEY = "870b51e07a9e76516a37de0232c9bb60cb1d2371f1388ea05140a25b9c2edfde"
+API_KEY = "------------------------------------------------------------------------"
 VT_UPLOAD_URL = "https://www.virustotal.com/api/v3/files"
 headers = {"x-apikey": API_KEY}
 
